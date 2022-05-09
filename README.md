@@ -1,6 +1,6 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=lafleurblanche&left_color=gray&right_color=blue)
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lafleurblanche&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lafleurblanchet&heme=dark&show_icons=true)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lafleurblanche&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
