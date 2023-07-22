@@ -1,6 +1,3 @@
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lafleurblanche&theme=tokyonight&hide_border=true&show_icons=true)
- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lafleurblanche&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&hide=HTML,C)](https://github.com/anuraghazra/github-readme-stats)
 
 
