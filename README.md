@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lafleurblanche&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&hide=HTML,C,CSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lafleurblanche&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&hide=HTML,C,CSS,Java)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![](https://raw.githubusercontent.com/lafleurblanche/lafleurblanche/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
